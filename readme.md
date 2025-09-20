@@ -43,7 +43,7 @@ MultipleFiles/ ├── app.py ├── diamond_regressor.pkl ├── diamon
 
 1.  **Clone the Repository**
     ```bash
-    git clone <Will coming soon>
+    git clone https://github.com/monparadharmik9/diamond-price-ml-app.git
     cd MultipleFiles
     ```
 
